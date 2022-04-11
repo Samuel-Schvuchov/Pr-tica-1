@@ -1,2 +1,4 @@
 Aula de git
 essa é a primeira aula de git
+
+Samuel G S
