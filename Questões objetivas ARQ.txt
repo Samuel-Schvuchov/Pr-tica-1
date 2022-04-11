@@ -1,0 +1,65 @@
+Aula 9 - Programação em Microcontroladores
+
+Somente atividade 
+
+Aula 10 - O Hardware dos Microcontroladores
+
+Somente atividade 
+
+Aula 11 - Gerenciamento do Hardware com a Linguagem Assembly
+
+1 -B (Ficar restrito aos comandos que o processador entende e gerenciar todo o fluxo de informações em um nível muito baixo)
+2 -E (I eIV)
+3 -A (As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I)
+4 -C (V,F,F,V)
+5 -D (2,4,1,3)
+6 -E (4,1,2,3)
+
+Aula 12 - Pipeline do Processo de Criação de Software
+
+1 -E (I.III e V)
+2 -C (V,V,F,V)
+3 -B (Permitir ao programador usar estruturas mais complexas, que serão traduzidas depois em linguagem de máquina (de “baixo nível”))
+4 -A (I,III e IV)
+5 -c (As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I)
+6 -D (As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I)
+
+
+Aula 13 -  Medição de Desempenho de Hardware
+
+1 - A (Memoria Cache)
+2 - D (Memoria Principal)
+3 - E (Vazao ou Throughout)
+4 - A (Tempo de Resposta)
+5 - C (As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I)
+6 - C (2,3 e 4)
+
+
+Aula 14 - Medição de Desempenho de Hardware
+
+Somente atividade 
+
+AULA 15 - Operações do Módulo de Entrada e Saída de Dados
+
+
+1 - E (I,II,IV)
+
+2 - A (F,V,F,V,F)
+
+3 - D (F,F,F,V,V)
+
+4 - C (3,2,5,1,4)
+
+5 - B (I,II,III)
+
+6 - D
+
+
+Aula 16 - Ciclo de Máquina
+
+1 - C (I,III)
+2 - B (Armazenar a Proxima intruçao a ser executada)
+3 - D (Ciclo de Busca e Ciclo de Execução)
+4 - E (I e IV)
+5 - A (1,2,2,1,2)
+6 - C (Execuçao)
